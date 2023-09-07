@@ -1,8 +1,29 @@
-### Hi there 👋
-
+<html>
+  <div id = "header" align = "center">
+    <h1>Всем привет, меня зовут Юлия! 👋 </h1>
+  </div>
+ 
+  <div>
+    <h3>Социальные сети: </h3>
+    <a href = "https://t.me/Sooddly" >
+      <img src = "https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt = "telegram">
+    </a>
+    <a href = "mailto:odintsovaj22@gmail.com" >
+      <img src = "https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt = "gmail">
+    </a>  
+  </div>
+  <div>
+    <h3>Инструменты: </h3>
+    <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title ="Kotlin" width = "40" height = "40">
+    <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title ="Android Studio" width = "40" height = "40">
+    <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title ="IntelliJ IDEA" width = "40" height = "40">
+    <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title ="C++" width = "40" height = "40">
+    <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title ="Java" width = "40" height = "40">                
+  </div>
+  
+  
+</html>
 <!--
-**0dintsova/0dintsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
